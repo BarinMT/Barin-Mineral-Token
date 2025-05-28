@@ -19,4 +19,4 @@ Barin connects real-world mineral assets with decentralized finance, enabling se
 ---
 
 **Website**: WWW.BarinMineralToken.Com [Coming Soon]  
-**Contact**: info@barinMineralToken.com
+**Contact**: info@BarinMineralToken.com
