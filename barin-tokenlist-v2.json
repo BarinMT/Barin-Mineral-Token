@@ -9,8 +9,9 @@
   "tags": {
     "utility": {
       "name": "Utility",
-      "description": "Utility tokens for accessing the BARIN ecosystem"
-    }"logoURI": "https://raw.githubusercontent.com/BarinMT/Barin-Mineral-Token/main/logos/logo.png"
+      "description": "Utility tokens for accessing the BARIN ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/BarinMT/Barin-Mineral-Token/main/logos/logo.png"
+    }
   },
   "keywords": [
     "barin",
@@ -25,12 +26,12 @@
       "name": "Barin Mineral Token",
       "symbol": "BARIN",
       "decimals": 18,
-"logoURI": "https://raw.githubusercontent.com/BarinMT/Barin-Mineral-Token/main/logos/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/BarinMT/Barin-Mineral-Token/main/logos/logo.png",
       "tags": [
         "utility"
       ],
       "extensions": {
-        "description": "BARIN is a Web3 infrastructure token designed to integrate digital finance with real-world mineral value chains. It is not backed by physical mines or company shares.",
+        "description": "BARIN is a Web3 infrastructure token designed to integrate digital finance with real-world mineral value chains. It is not backed by physical mining assets or shares.",
         "website": "https://barinmineraltoken.com",
         "explorer": "https://polygonscan.com/token/0x559f11777626381e1566fedcf59f454e005316d1"
       }
